@@ -1,0 +1,28 @@
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\bin\Release\net6.0-windows\20Speed Tools.exe
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\bin\Release\net6.0-windows\Icon\20SpeedVpn Icon.png
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\bin\Release\net6.0-windows\20Speed Tools.deps.json
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\bin\Release\net6.0-windows\20Speed Tools.runtimeconfig.json
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\bin\Release\net6.0-windows\20Speed Tools.dll
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\bin\Release\net6.0-windows\20Speed Tools.pdb
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\bin\Release\net6.0-windows\HtmlAgilityPack.dll
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\bin\Release\net6.0-windows\HtmlAgilityPack.NetCore.dll
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\bin\Release\net6.0-windows\Leaf.xNet.dll
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\20Speed Tools.csproj.AssemblyReference.cache
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\Style Xaml\Style Xaml.baml
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\App.g.cs
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\20Speed Tools_Content.g.cs
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\20Speed Tools_MarkupCompile.cache
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\20Speed Tools_MarkupCompile.lref
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\20Speed Tools.g.resources
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\20Speed Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\20Speed Tools.AssemblyInfoInputs.cache
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\20Speed Tools.AssemblyInfo.cs
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\20Speed Tools.csproj.CoreCompileInputs.cache
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\20Speed Tools.csproj.CopyComplete
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\20Speed Tools.dll
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\refint\20Speed Tools.dll
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\20Speed Tools.pdb
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\20Speed Tools.genruntimeconfig.cache
+C:\Users\Xiliya\Desktop\20Speed Tools\20Speed Tools\obj\Release\net6.0-windows\ref\20Speed Tools.dll
